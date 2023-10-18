@@ -43,6 +43,12 @@
 .text-white{
 	color: #fff;
 }
+.text-black{
+	color: #000;
+}
+.text-style-none{
+	text-decoration: none;
+}
 .col-2{
 	grid-template-columns:repeat(2,1fr);
 }
