@@ -1,0 +1,17 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body{
+	width: 95%;
+	margin: auto;
+}
+.home_nav{
+	display: block;
+	height: 2.5rem;
+	border: 1px solid;
+}
+section{
+	width: 100%;
+}
